@@ -1,2 +1,0 @@
-easy 8
-medium 2
